@@ -1,0 +1,12 @@
+com/java/springbootjooq/SpringBootJooqApplication.class
+com/java/springbootjooq/SampleService.class
+com/tej/JooQDemo/jooq/sample/model/tables/records/BookRecord.class
+com/tej/JooQDemo/jooq/sample/model/tables/Author.class
+com/tej/JooQDemo/jooq/sample/model/tables/Book.class
+com/tej/JooQDemo/jooq/sample/model/tables/pojos/Author.class
+com/tej/JooQDemo/jooq/sample/model/Tables.class
+com/tej/JooQDemo/jooq/sample/model/tables/pojos/Book.class
+com/tej/JooQDemo/jooq/sample/model/Keys.class
+com/tej/JooQDemo/jooq/sample/model/Testdb.class
+com/tej/JooQDemo/jooq/sample/model/tables/records/AuthorRecord.class
+com/tej/JooQDemo/jooq/sample/model/DefaultCatalog.class
